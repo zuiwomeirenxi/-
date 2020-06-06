@@ -1,2 +1,2 @@
-# -
+# -study
 for personal study
